@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">TrackDem</string>
+
+    <string name="title_activity_maps_truck_map">Map</string>
+    <string name="title_activity_truck_map">Map</string>
+    <string-array name="Description">
+        <item>Transport Container "3A" to Factory </item>
+        <item>Transport package "5C" to Depo</item>
+        <item>etc</item>
+        <item>etc</item>
+        <item>etc</item>
+        <item>etc</item>
+        <item>etc</item>
+        <item>etc</item>
+
+    </string-array>
+    <string-array name="Missions">
+        <item>Mission 1</item>
+        <item>Mission 2</item>
+        <item>Mission 3</item>
+        <item>Mission 4</item>
+        <item>Mission 5</item>
+        <item>Mission 6</item>
+        <item>Mission 7</item>
+        <item>Mission 8</item>
+
+    </string-array>
+    <string-array name="Location">
+        <item>Trablos</item>
+        <item>Dibbieh</item>
+        <item>Bakaata</item>
+        <item>Alley</item>
+        <item>Alley</item>
+        <item>Alley</item>
+        <item>Alley</item>
+        <item>Alley</item>
+
+    </string-array>
+</resources>
